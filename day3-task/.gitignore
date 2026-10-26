@@ -1,0 +1,5 @@
+@"
+.terraform/
+*.tfstate
+*.tfstate.*
+"@ | Set-Content "day3-task\.gitignore"
